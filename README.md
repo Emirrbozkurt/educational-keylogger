@@ -26,8 +26,8 @@ This project was created to demonstrate **system programming concepts**, specifi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Emirrbozkurt/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/Emirrbozkurt/educational-keylogger.git]
+cd educational-keylogger
 
 2. Install Dependencies
 Bash
@@ -63,4 +63,4 @@ Input Hooking: Interfacing with OS-level input streams.
 
 File Handling: Appending data streams to text files efficiently.
 
-Developed by Emir Bozkuer | Computer Engineering Student
+Developed by Emir Bozkurt | Computer Engineering Student
